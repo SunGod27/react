@@ -3,7 +3,7 @@
 #  SENTRY_AUTH_TOKEN
 
 SENTRY_ORG=testorg-az
-SENTRY_PROJECT=just-demo
+SENTRY_PROJECT=justin-demo
 VERSION=`sentry-cli releases propose-version`
 PREFIX=static/js
 
